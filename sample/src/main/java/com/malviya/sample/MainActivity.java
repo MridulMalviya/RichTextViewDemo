@@ -197,7 +197,7 @@ public class MainActivity extends AppCompatActivity {
 
         findViewById(R.id.action_insert_link).setOnClickListener(new View.OnClickListener() {
             @Override public void onClick(View v) {
-                mEditor.insertLink("https://github.com/MridulMalviya", "malviya");
+                mEditor.insertLink("https://github.com/shyam1234", "Prafulla Malviya");
             }
         });
         findViewById(R.id.action_insert_checkbox).setOnClickListener(new View.OnClickListener() {
